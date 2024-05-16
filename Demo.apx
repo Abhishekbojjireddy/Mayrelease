@@ -1,5 +1,6 @@
 public class Demo{
   public void Sayhello(){
-    system.debug("Hello Git")
+    system.debug('Hello Git');
+    system.debug('How are you');
 }
 }
