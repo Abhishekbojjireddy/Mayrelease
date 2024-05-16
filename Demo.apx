@@ -1,6 +1,11 @@
 public class Demo{
   public void Sayhello(){
+<<<<<<< HEAD
     system.debug('Hello Git')
+=======
+    system.debug('Hello Git');
+    system.debug('How are you');
+>>>>>>> 12ac854a31897aa861764b6f83bb02c3d0568c5d
 }
 	public void sum(){
 		integer a=10;
